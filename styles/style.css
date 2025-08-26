@@ -79,9 +79,8 @@ html {
 
 .title {
   font-family: 'Oswald', sans-serif;
-  font-weight: 700;
+  font-weight: 800;
   font-size: 75px;
-  font-style: bold;
   line-height: 94%;
   text-transform: uppercase;
   margin-top: 2px;
@@ -123,7 +122,6 @@ html {
   font-family: 'Oswald', sans-serif;
   font-weight: 700;
   font-size: 30px;
-  font-style: bold;
   line-height: 100%;
   text-transform: uppercase;
   white-space: nowrap;
@@ -165,7 +163,6 @@ html {
 .search-form__textfield {
   font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
-  line-height: auto;
   background-color: #1b1919;
   border: none;
   border-top: 1px solid #fff;
@@ -279,7 +276,6 @@ ol {
   all: unset;
   font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
-  line-height: auto;
   font-weight: 800;
   background-color: transparent;
   border: 1px solid #fff;
